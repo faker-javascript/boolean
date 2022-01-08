@@ -1,9 +1,9 @@
 {
   "name": "@fakerjs/boolean",
-  "version": "1.1.0",
-  "description": "Random Boolean package provides functionality to generate a random boolean value.",
+  "version": "1.1.1",
+  "description": "Boolean package provides functionality to generate a fake boolean value.",
   "license": "MIT",
-  "repository": "fakerjs/random-boolean",
+  "repository": "faker-javascript/boolean",
   "author": {
     "name": "Sergey Romanenko",
     "email": "awilum@msn.com",

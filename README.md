@@ -10,7 +10,7 @@ Boolean package provides functionality to generate a fake boolean value.
 ## Install
 
 ```
-$ npm install --save @fakerjs/random-boolean
+$ npm install --save @fakerjs/boolean
 ```
 
 ## Usage
