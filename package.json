@@ -1,0 +1,35 @@
+{
+  "name": "@fakerjs/boolean",
+  "version": "1.1.0",
+  "description": "Random Boolean package provides functionality to generate a random boolean value.",
+  "license": "MIT",
+  "repository": "fakerjs/random-boolean",
+  "author": {
+    "name": "Sergey Romanenko",
+    "email": "awilum@msn.com",
+    "url": "https://github.com/Awilum"
+  },
+  "type": "module",
+	"exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "fakerjs",
+    "fake",
+    "random",
+    "bool",
+    "boolean",
+    "true",
+    "false"
+  ]
+}
