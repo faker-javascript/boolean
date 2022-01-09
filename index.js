@@ -1,3 +1,3 @@
-export default function fakeBoolean() {
+export default function boolean() {
     return Math.random() >= 0.5;
 };
