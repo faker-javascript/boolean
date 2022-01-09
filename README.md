@@ -16,7 +16,7 @@ $ npm install --save @fakerjs/boolean
 ## Usage
 
 ```js
-import fakeBoolean from '@fakerjs/boolean';
+import boolean from '@fakerjs/boolean';
 
 boolean();
 //=> true
