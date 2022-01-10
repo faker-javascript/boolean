@@ -1,6 +1,6 @@
 {
   "name": "@fakerjs/boolean",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Boolean package provides functionality to generate a fake boolean value.",
   "license": "MIT",
   "repository": "faker-javascript/boolean",
@@ -25,6 +25,7 @@
   ],
   "keywords": [
     "fakerjs",
+    "faker",
     "fake",
     "random",
     "bool",
