@@ -20,7 +20,7 @@ to read on GitHub as well as in various git tools.
 
 The footer should contain a [closing reference to an issue](https://help.github.com/articles/closing-issues-via-commit-messages/) if any.
 
-Samples: (even more [samples](https://github.com/faker-javascript/boolean/commits/dev))
+Samples: (even more [samples](https://github.com/faker-javascript/boolean/commits/master))
 
 ### Revert
 If the commit reverts a previous commit, it should begin with `revert: `, followed by the header of the reverted commit. In the body it should say: `This reverts commit <hash>.`, where the hash is the SHA of the commit being reverted.
@@ -38,7 +38,7 @@ The type of the made changes. Should be one of:
 * **build**: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
 
 ### Scope
-The scope could be anything specifying the place of the commit change. For example core, admin-plugin, translation etc...
+The scope could be anything specifying the place of the commit change. For example core, docs, etc...
 
 ### Subject
 The subject contains a succinct description of the change:
