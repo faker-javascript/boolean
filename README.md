@@ -4,7 +4,7 @@ Boolean package provides functionality to generate a fake boolean value.
 </p>
 
 <p align="center">
-<a href="https://github.com/faker-javascript/boolean/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/boolean.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/boolean"> <a href="https://github.com/faker-javascript/boolean"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a> <img src="https://github.com/faker-javascript/boolean/actions/workflows/tests.yml/badge.svg">
+<a href="https://github.com/faker-javascript/boolean/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/boolean.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/boolean"> <img alt="node-current" src="https://img.shields.io/node/v/@fakerjs/boolean"> <a href="https://github.com/faker-javascript/boolean/actions/workflows/ci.yml"><img src="https://github.com/faker-javascript/boolean/actions/workflows/ci.yml/badge.svg"></a> <a href="https://github.com/faker-javascript/boolean"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a>
 </p>
 
 ## Install
