@@ -1,3 +1,7 @@
+<a name="2.1.1"></a>
+# [2.1.1](https://github.com/faker-javascript/boolean) (2022-01-15)
+* Typo updates.
+
 <a name="2.1.0"></a>
 # [2.1.0](https://github.com/faker-javascript/boolean) (2022-01-11)
 * Added xo, tsd, c8.
