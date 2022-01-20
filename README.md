@@ -9,8 +9,14 @@ Boolean package provides functionality to generate a fake boolean value.
 
 ## Install
 
+npm
 ```
-$ npm install --save @fakerjs/boolean
+npm install @fakerjs/boolean --save-dev
+```
+
+yarn
+```
+yarn add @fakerjs/boolean -D
 ```
 
 ## Usage
